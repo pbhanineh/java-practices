@@ -4,7 +4,7 @@ import java.util.Set;
 
 public class CommonArraysClass {
 
-    public static List<Character> getCommonCaractersFrom2Arrays(char[] arr1, char[] arr2) {
+    public  List<Character> getCommonCaractersFrom2Arrays(char[] arr1, char[] arr2) {
         int m = arr1.length;
         int n = arr2.length;
         int i = 0, j=0;
